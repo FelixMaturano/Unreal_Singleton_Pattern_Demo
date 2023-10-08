@@ -1,0 +1,2 @@
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\Definitions.SingletonPattern.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Source\SingletonPattern\SingletonPattern.h

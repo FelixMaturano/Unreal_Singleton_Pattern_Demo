@@ -1,0 +1,5 @@
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\Definitions.SingletonPattern.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Source\SingletonPattern/Inventario.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Inc\SingletonPattern\Inventario.generated.h

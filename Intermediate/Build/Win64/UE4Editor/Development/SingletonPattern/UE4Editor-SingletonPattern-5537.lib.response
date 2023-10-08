@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SingletonPattern-5537.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\SingletonPatternEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\Inventario.cpp.obj"
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\SingletonPattern.cpp.obj"
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\SingletonPatternGameModeBase.cpp.obj"
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\Inventario.gen.cpp.obj"
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\SingletonPattern.init.gen.cpp.obj"
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\SingletonPatternGameModeBase.gen.cpp.obj"
+"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\Default.rc2.res"
+/OUT:"C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\UE4Editor-SingletonPattern-5537.lib"

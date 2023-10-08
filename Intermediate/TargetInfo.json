@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SingletonPattern",
+			"Path": "C:\\TODO\\PVZ-1\\PATRONES DE DISENIO\\PATRONES_UNREAL\\SingletonPattern\\Source\\SingletonPattern.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SingletonPatternEditor",
+			"Path": "C:\\TODO\\PVZ-1\\PATRONES DE DISENIO\\PATRONES_UNREAL\\SingletonPattern\\Source\\SingletonPatternEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

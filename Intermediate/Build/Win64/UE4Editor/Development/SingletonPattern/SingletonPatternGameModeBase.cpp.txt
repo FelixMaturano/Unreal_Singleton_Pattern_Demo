@@ -1,0 +1,9 @@
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Development\SingletonPattern\Definitions.SingletonPattern.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Source\SingletonPattern\SingletonPatternGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Inc\SingletonPattern\SingletonPatternGameModeBase.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Source\SingletonPattern\Inventario.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\SingletonPattern\Intermediate\Build\Win64\UE4Editor\Inc\SingletonPattern\Inventario.generated.h

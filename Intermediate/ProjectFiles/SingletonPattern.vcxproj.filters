@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SingletonPattern.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{60506D59-12B1-4438-8634-2823AE397AE7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SingletonPattern.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SingletonPatternEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F5D8FA0D-8D33-40E2-98C6-7A309029A166}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SingletonPattern">
+      <UniqueIdentifier>{A6368B64-04FD-42A2-A9A6-1A1E4BD42395}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SingletonPattern\Inventario.cpp">
+      <Filter>Source\SingletonPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SingletonPattern\Inventario.h">
+      <Filter>Source\SingletonPattern</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SingletonPattern\SingletonPattern.Build.cs">
+      <Filter>Source\SingletonPattern</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SingletonPattern\SingletonPattern.cpp">
+      <Filter>Source\SingletonPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SingletonPattern\SingletonPattern.h">
+      <Filter>Source\SingletonPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SingletonPattern\SingletonPatternGameModeBase.cpp">
+      <Filter>Source\SingletonPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SingletonPattern\SingletonPatternGameModeBase.h">
+      <Filter>Source\SingletonPattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

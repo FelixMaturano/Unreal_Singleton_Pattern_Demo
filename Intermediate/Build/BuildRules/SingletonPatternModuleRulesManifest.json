@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\TODO\\PVZ-1\\PATRONES DE DISENIO\\PATRONES_UNREAL\\SingletonPattern\\Source\\SingletonPattern\\SingletonPattern.Build.cs",
+		"C:\\TODO\\PVZ-1\\PATRONES DE DISENIO\\PATRONES_UNREAL\\SingletonPattern\\Source\\SingletonPattern.Target.cs",
+		"C:\\TODO\\PVZ-1\\PATRONES DE DISENIO\\PATRONES_UNREAL\\SingletonPattern\\Source\\SingletonPatternEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
